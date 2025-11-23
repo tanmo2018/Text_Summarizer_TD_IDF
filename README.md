@@ -1,2 +1,2 @@
-# Text_Summarizer_TD_IDF
+# Text_Summarizer_TF_IDF
 It's a text summarizer. Implemented using TF-IDF method.
